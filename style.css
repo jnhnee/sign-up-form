@@ -16,10 +16,6 @@ body {
     background-repeat: no-repeat;
 }
 
-.banner {
-
-}
-
 .title {
     background-color: rgba(0, 0, 0, 0.5);
     font-family: "Rubik Glitch", sans-serif, 'Times New Roman', Times, serif;
@@ -28,6 +24,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10px;
+    margin: 10% 0;
 }
 
 .odin {
