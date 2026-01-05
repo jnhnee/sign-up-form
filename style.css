@@ -14,6 +14,12 @@ body {
     background-image: url(./imgs/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.banner {
+    width: 40%;
 }
 
 .title {
@@ -33,4 +39,6 @@ body {
 
 .sign-up-form {
     background-color: white;
+    height: 100vh;
+    width: 60%;
 }
