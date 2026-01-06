@@ -20,17 +20,26 @@ body {
 
 .banner {
     width: 40%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .title {
     background-color: rgba(0, 0, 0, 0.5);
     font-family: "Rubik Glitch", sans-serif, 'Times New Roman', Times, serif;
-    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 10px;
-    margin: 10% 0;
+    margin: 30% 0;
+}
+
+.credit a, .credit {
+    color: white;
+    align-self: center;
+    margin-bottom: 15px;
 }
 
 .odin {
