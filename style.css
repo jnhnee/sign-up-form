@@ -19,9 +19,7 @@ body {
 }
 
 .sign-up-form {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    padding-top: 8%;
 }
 
 .banner {
