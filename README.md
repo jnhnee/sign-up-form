@@ -4,7 +4,7 @@ The project is a part of [The Odin Project Foundations Course](https://www.theod
 
 ## Features
 
-
+- Sign up form for user to subscribe to a service
 
 
 ## Credits
