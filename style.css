@@ -67,6 +67,7 @@ form {
     gap: 20px;
     padding-top: 25px;
     background-color: rgb(253, 253, 253);
+    box-shadow: 0 6px 12px -6px rgba(0, 0, 0, 0.3);
 }
 
 #login {
@@ -76,5 +77,16 @@ form {
 }
 
 label {
-    
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.form div {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.form div input {
+    width: 200px;
 }
