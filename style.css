@@ -68,6 +68,7 @@ form {
     padding-top: 25px;
     background-color: rgb(253, 253, 253);
     box-shadow: 0 6px 12px -6px rgba(0, 0, 0, 0.3);
+    padding: 20px
 }
 
 #login {
@@ -89,4 +90,16 @@ label {
 
 .form div input {
     width: 200px;
+}
+
+button {
+    background-color: rgb(68, 150, 68);
+    color: #ffffff;
+    border: 0;
+    border-radius: ;
+    padding: 8px 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+
 }
