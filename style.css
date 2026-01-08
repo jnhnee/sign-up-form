@@ -29,6 +29,7 @@ body {
 
 .info {
     font-weight: 560;
+    width: 430px;
 }
 
 .title {
@@ -57,6 +58,10 @@ body {
     width: 60%;
     padding-top: 8%;
     padding-left: 30px;
+}
+
+form {
+    width: 430px;
 }
 
 #login {
