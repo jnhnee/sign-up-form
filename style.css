@@ -18,6 +18,12 @@ body {
 
 }
 
+.sign-up-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .banner {
     width: 40%;
     color: white;
